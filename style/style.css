@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    width: 1440px;
+    height: 5007px;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+}
+
+header {
+    background-image: url("/img/cover.png");
+}
+
+.col-md2 {
+    width: 328px;
+    height: 610px;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+}
+
+button {
+    width: 248px;
+    height: 52px;
+    align-items: center;
+}
+
