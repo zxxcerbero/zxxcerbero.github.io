@@ -1,6 +1,5 @@
 * {
     box-sizing: border-box;
-    margin: 0;
 }
 
 body {
@@ -11,10 +10,34 @@ body {
 .nav {
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
+    width: 1322px;
+    height: 91px;
+    align-items: center;
+    flex-wrap: nowrap;
+    align-content: space-between;
 }
+.nav_bar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+    text-decoration: none;
+    width: 815px;
+    height: 58px;
+    color: whitesmoke;
+}
+.nav_bar a {
+    color: whitesmoke;
+}
+a {
+    text-decoration: none;
 
+}
 header {
     background-image: url("/img/cover.png");
+    width: 1440px;
+    height: 817px;
 }
 
 .col-md2 {
@@ -24,9 +47,13 @@ header {
     border-radius: 10px;
 }
 
-button {
-    width: 248px;
+.button_nav-item {
+    width: 190px;
     height: 52px;
-    align-items: center;
+    background: #23A6F0;
+    border-radius: 5px;
+    color: white;
 }
-
+.item {
+    width: 90%;
+}
