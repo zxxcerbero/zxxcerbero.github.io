@@ -2,12 +2,6 @@
     box-sizing: border-box;
     margin: 0;
 }
-
-body {
-    width: 1440px;
-    height: 5007px;
-}
-
 .nav {
     display: flex;
     flex-direction: row;
