@@ -86,7 +86,7 @@ Estoy trabajando en integrar **GitHub Insights**, estadísticas de commits y act
 
 ¿Te interesa colaborar o contratar mis servicios?  
 👉 Visita mi sitio: [zxxcerbero.github.io](https://zxxcerbero.github.io)  
-📧 Correo: *[zeddanton.sm5e@gmail.com]*  
+📧 Correo: ```*zeddanton.sm5e@gmail.com*``` 
 🔗 LinkedIn: *[añade tu perfil]*  
 💻 GitHub: [github.com/zxxcerbero](https://github.com/zxxcerbero)
 
