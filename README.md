@@ -36,7 +36,7 @@ A continuación, verás los **logotipos representativos** de las tecnologías co
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 - ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 - ![Adobe Premiere](https://img.shields.io/badge/Premiere-9999FF?logo=adobepremierepro&logoColor=white)
-- ![DaVinci Resolve](https://img.shields.io/badge/DaVinci-000000?logo=blackmagicdesign&logoColor=white)
+- ![DaVinci Resolve](https://img.shields.io/badge/DaVinci-000000?logo=davinciresolve&logoColor=white)
 - ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?logo=adobelightroom&logoColor=white)
 - ![Audition](https://img.shields.io/badge/Audition-000000?logo=adobeaudition&logoColor=green)
 
@@ -86,7 +86,7 @@ Estoy trabajando en integrar **GitHub Insights**, estadísticas de commits y act
 
 ¿Te interesa colaborar o contratar mis servicios?  
 👉 Visita mi sitio: [zxxcerbero.github.io](https://zxxcerbero.github.io)  
-📧 Correo: *[coloca aquí tu email si deseas]*  
+📧 Correo: *[zeddanton.sm5e@gmail.com]*  
 🔗 LinkedIn: *[añade tu perfil]*  
 💻 GitHub: [github.com/zxxcerbero](https://github.com/zxxcerbero)
 
