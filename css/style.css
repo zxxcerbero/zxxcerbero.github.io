@@ -330,6 +330,8 @@ blockquote {
   font-size: 100%;
   font-weight: 500;
 }
-video.video-frame {
+.video-frame {
   border-radius: 10px;
+  width: 720px;
+  height: 480px;
 }
